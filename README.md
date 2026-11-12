@@ -41,8 +41,8 @@ Global_Blizzard
 ### Terreno y vehículo
 
 - `Snow_Terrain` utiliza `Snow_Material`, de color blanco azulado.
-- El terreno está elevado para cubrir visualmente la parte inferior y las
-  ruedas del vehículo.
+- El terreno está elevado hasta la zona inferior de las ruedas para simular
+  nieve acumulada alrededor de las llantas.
 - `Police_Car` mantiene una posición `Y = -0.5` y queda parcialmente enterrado.
 - El modelo policial se encuentra en `Car_Mesh`.
 
