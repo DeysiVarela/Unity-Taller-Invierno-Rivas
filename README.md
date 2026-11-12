@@ -44,6 +44,8 @@ Global_Blizzard
 - El terreno está elevado hasta la zona inferior de las ruedas para simular
   nieve acumulada alrededor de las llantas.
 - `Police_Car` mantiene una posición `Y = -0.5` y queda parcialmente enterrado.
+- `WheelSnowEffect` crea una pequeña capa blanca sobre el borde superior de
+  cada llanta al iniciar la escena.
 - El modelo policial se encuentra en `Car_Mesh`.
 
 ### Sirena policial
