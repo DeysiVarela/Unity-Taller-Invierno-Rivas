@@ -40,8 +40,10 @@ Global_Blizzard
 
 ### Terreno y vehículo
 
-- `Snow_Terrain` utiliza `Snow_Material`.
-- `Police_Car` está colocado parcialmente por debajo del terreno.
+- `Snow_Terrain` utiliza `Snow_Material`, de color blanco azulado.
+- El terreno está elevado para cubrir visualmente la parte inferior y las
+  ruedas del vehículo.
+- `Police_Car` mantiene una posición `Y = -0.5` y queda parcialmente enterrado.
 - El modelo policial se encuentra en `Car_Mesh`.
 
 ### Sirena policial
